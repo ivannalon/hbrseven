@@ -4,15 +4,17 @@
   --nude-600: #F6CC8D;
 
   --gray: #ADADAD;
-  --gray-700: #313131
+  --gray-700: #313131;
 
   --black: #030303;
 
-  -green: #AADC6B;
+  --blue: #304FFE;
 
-  -pink: #DF78CF;
+  --green: #AADC6B;
 
-  -red: #F45565;
+  --pink: #DF78CF;
+
+  --red: #F45565;
 }
 
 * {
